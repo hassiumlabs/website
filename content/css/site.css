@@ -13,7 +13,37 @@ body { color: #fff; text-align: center; text-shadow: 0 1px 3px rgba(0,0,0,.5); }
 .site-wrapper-inner { display: table-cell; vertical-align: top; }
 .cover-container { margin-right: auto; margin-left: auto; }
 .inner { padding: 30px; }
-.masthead-brand { margin-top: 10px; margin-bottom: 10px; }
+.masthead-brand {
+    margin: 10px;
+    color: #000;
+}
+.masthead-brand > .hs-logo {
+    background: -moz-radial-gradient(0 0, ellipse cover, #F6F200 30%,#F8D72F 60%,#F9C349 75%,#F9B159 100%);
+    background: -webkit-radial-gradient(0 0, ellipse cover, #F6F200 30%,#F8D72F 60%,#F9C349 75%,#F9B159 100%);
+    background: radial-gradient(0 0, ellipse cover, #F6F200 30%,#F8D72F 60%,#F9C349 75%,#F9B159 100%);
+    width: 85px;
+    height: 85px;
+    padding: 0;
+    margin: 0;
+}
+.masthead-brand > .hs-logo > .hs-logo-num {
+    font-size: 15px;
+    text-align: left;
+    position: relative;
+    top: 4px;
+    left: 4px;
+}
+.masthead-brand > .hs-logo > .hs-logo-symbol {
+    margin-top: 8px;
+    font-size: 28px;
+}
+.masthead-brand > .hs-logo > .hs-logo-name {
+    font-size: 13px;
+}
+.masthead-brand > .hs-logo > .hs-logo-weight {
+    font-size: 12px;
+}
+
 .masthead-nav > li { display: inline-block; }
 .masthead-nav > li + li { margin-left: 20px; }
 .masthead-nav > li > a {
@@ -35,7 +65,7 @@ body { color: #fff; text-align: center; text-shadow: 0 1px 3px rgba(0,0,0,.5); }
     border-bottom-color: #fff;
 }
 .cover { padding: 0 20px; }
-.cover .btn-lg { padding: 10px 20px; font-weight: bold; }
+.cover-heading { color: #f8d72f; }
 .mastfoot { color: #999; color: rgba(255,255,255,.5); }
 @media (min-width: 768px) {
     .masthead-brand { float: left; }
