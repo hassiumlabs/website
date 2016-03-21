@@ -18,6 +18,7 @@ body { color: #fff; text-align: center; text-shadow: 0 1px 3px rgba(0,0,0,.5); }
     color: #000;
 }
 .masthead-brand > .hs-logo {
+    background: #F8D72F;
     background: -moz-radial-gradient(0 0, ellipse cover, #F6F200 30%,#F8D72F 60%,#F9C349 75%,#F9B159 100%);
     background: -webkit-radial-gradient(0 0, ellipse cover, #F6F200 30%,#F8D72F 60%,#F9C349 75%,#F9B159 100%);
     background: radial-gradient(0 0, ellipse cover, #F6F200 30%,#F8D72F 60%,#F9C349 75%,#F9B159 100%);
