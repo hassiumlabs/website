@@ -1,7 +1,4 @@
-sudo: false
-language: go
-go:
-  - 1.7
+language: bash
 branches:
   only:
     - master
