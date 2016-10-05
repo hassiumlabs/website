@@ -1,6 +1,2 @@
-# IDE cruft
 *.iml
 .idea/
-
-# Generated files
-output/
