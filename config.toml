@@ -4,8 +4,7 @@ title = "Hassium Labs"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
-# Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
+googleAnalytics = "UA-85417237-1"
 
 [params]
 	# General information
