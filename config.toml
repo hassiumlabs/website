@@ -8,7 +8,7 @@ googleAnalytics = "UA-85417237-1"
 
 [params]
 	# General information
-	author = "hassiumlabs"
+	author = "Hassium Labs"
 	description = "Open Source Labs"
 	copyright = ""
 
@@ -17,13 +17,13 @@ googleAnalytics = "UA-85417237-1"
 	repo_url = "https://github.com/hassiumlabs"
 
 	version = ""
-	logo = "images/logo.png"
+	logo = "css logo"
 	favicon = "images/favicon.png"
 
 	permalink = "#"
 
 	# Custom assets
-	custom_css = []
+	custom_css = [ "stylesheets/hassiumlabs.css" ]
 	custom_js  = []
 
 	# Syntax highlighting theme
