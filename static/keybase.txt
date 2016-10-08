@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/hassiumlabs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://hassiumlabs.com
+  * I am hassiumlabs (https://keybase.io/hassiumlabs) on keybase.
+  * I have a public key with fingerprint 57CD 32DE 3894 3360 F65F  CD35 8DA8 9D61 E987 33C2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010a6d3012dda37dbb377659d3b53b6af696c204f327e5a7b37886717794fa1d730a",
+            "fingerprint": "57cd32de38943360f65fcd358da89d61e98733c2",
+            "host": "keybase.io",
+            "key_id": "8da89d61e98733c2",
+            "kid": "01010a6d3012dda37dbb377659d3b53b6af696c204f327e5a7b37886717794fa1d730a",
+            "uid": "47e316439585f4a1649e459895d91419",
+            "username": "hassiumlabs"
+        },
+        "service": {
+            "hostname": "hassiumlabs.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458485714,
+    "expire_in": 157680000,
+    "prev": "87d3e7b181d201b31f04c659fc0299c84e3e47a6e3cd006b78c570f2e4a0867a",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMM4AnicrVJ7TBxFHD4UTTmppREjzyhbUVE8d292d3av10esCcF3ULGhtLCPWW4L
+3J67e7Tl0RIq6bWNGrjQFktNA0gJrcVHwVYKV86KIiGnYJFWa1IIAkXwQZEazsZd
+on/pn878MTO/3/d9882Xubjydos14o3WY9z0PhCMGOht8Fqy584NlWG8Iu7CHGVY
+IVpeUJGIND2vUBYxB4YTxuRoEeCEXRQ5AEWeBxDSFCsCngI8zUk0Swt2nJSAHSKK
+g0abYWhIQMiSEkeIEOAclo5JsrsAqR5VduuGLAUFEdhFBBiWBIDGJZqSjArFiBzD
+ijSBWAYCINgNokvRTIZhjuc0ZJMVo2Yc8pbt/Qf+f/btXZYjIQIETQKWYiiJ5Iwt
+i0iKZVhKZAmSYE2ghlQ3V4wMtIvTNNlbXMTxGlaRjhmNEllAZrbmY/4NsglKsaHg
+URVdEZQis6nrHofJ1Xd5TPAOxOf9LZPHy27RCNMglCBVkxU35iAMpKDLpi5BUgzJ
+UJAg0zG00yOrKE82ERSkGdwY5jWoxIwOigBBnmAI0Y4TPCAknBSMfCQBt7OswJAI
+IBJyNAKCiOM0DxmBgrhkRySHGzmZ2WjoNbeCOWjDJldgSGpygZvTvSrCKoK9uZGW
+CKvlzjtuMz+ZxRoV88/XgwsxltMNt/yuza7vvug7Meu+93pZKutN+SFrJm5+00HX
+lo0P0bGWPf0l0bWdV+IWz20fjQX2ieHa3uqKSRC+qycddQ4tjRz48EF6268aEZwS
+Rrc68QNKoKem8czuo0mdrnGhdiafCDz7+H0pbxdGHD6W0LE6Lqug7SVffbZauuFm
++JFm50SS8/zgKbXV+a7vRW9dP9t1eMWm/vQHGhdKF7PqTgC1GMv4HeZetrSDyL0h
+Z9W84sjoTh2A+gvlF4NC1YXxqubBkyMrX057k88On47b2x7FeaZvzqZkdj3Z37b9
+SGXlZGhN9zW+MvkXBv966r36tfccf38pIefC5dl3OpqujkVvfCvz1PRzKJ7b/Hlz
+UTAwOznmjAr6tafjKtnVMfUV1iFVHDm0f6Q6o+vWZ2PrelTh0KsTHyx+tL7Od8DX
+9PpR2waBzSi3b/1k/hnc2iAe8XkDw/6Wx1aNnWl35u64smfLn5HCbv+nycF1U/6H
+VwXneu7uuPSj1duZkn9ND9ttc/kr/vhYerQ2MUe6MXo+KafWljxV4xrEqezp/YlP
+lS/lh0PO8lYmJU1LHR/9eWHK2x3vHwz5rg80+3ceH34lpNd8VXrW+e1PZ7/Uvw8n
+jmOBFstMWuw2/Ju2fm+o8dJsdUA6ef++5+t+64u/UWRbGyuscTa14FfXP1HV2RGd
+UJhp7Sv4C9JDy3U=
+=UW0j
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hassiumlabs
+
+==================================================================
