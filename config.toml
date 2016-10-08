@@ -38,21 +38,23 @@ googleAnalytics = ""
     	text = "Ubuntu"
     	code = "Ubuntu Mono"
 
-
 [social]
 	twitter = "hassiumlabs"
 	github  = "hassiumlabs"
 	email   = "info@hassiumlabs.com"
-
-
-[[menu.main]]
-	name   = "Home"
-	url    = "/"
-	weight = 0
-
 
 [blackfriday]
 	smartypants	= true
 	fractions = true
 	smartDashes = true
 	plainIDAnchors = true
+
+[[menu.main]]
+	name   = "Home"
+	url    = "/"
+	weight = 0
+
+[[menu.main]]
+	name   = "About"
+	url    = "about/"
+	weight = 10
