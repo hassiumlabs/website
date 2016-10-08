@@ -6,7 +6,6 @@ branches:
 services:
   - docker
 after_success:
-  - pip install --user awscli; export PATH=$PATH:$HOME/.local/bin
   - bash -x .travis-deploy.sh
 notifications:
   slack:
