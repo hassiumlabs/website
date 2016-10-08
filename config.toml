@@ -1,0 +1,58 @@
+baseurl = "https://hassiumlab.com/"
+languageCode = "en-us"
+title = "Hassium Labs"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = "hassiumlabs"
+	description = "Open Source Labs"
+	copyright = ""
+
+	# Repository
+	provider = ""
+	repo_url = "https://github.com/hassiumlabs"
+
+	version = ""
+	logo = "images/logo.png"
+	favicon = "images/favicon.png"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "blue-grey"
+    	accent  = "yellow"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = "hassiumlabs"
+	github  = "hassiumlabs"
+	email   = "info@hassiumlabs.com"
+
+
+[[menu.main]]
+	name   = "Home"
+	url    = "/"
+	weight = 0
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
