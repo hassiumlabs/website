@@ -7,7 +7,7 @@ services:
   - docker
 after_success:
   - pip install --user awscli; export PATH=$PATH:$HOME/.local/bin
-  - .travis-deploy.sh
+  - bash -x .travis-deploy.sh
 notifications:
   slack:
     secure: Ww51rJlyOAqoIZuyNZDTqT/Ukj8dOnIZfr8Dt6BsDK8dMaEd4CKVgKP4vO0qNQuLOSNFeSz6RXNq+fONAwqFe/qaR/2bYY72Ck7dJsDNb50iO64st2wjmMLBYv+J/JUOdKOqqVnjmarNHQXNvSV+4ZgP5UAru1qYQrC+QcSl/wmbX2PMtPaINDWcNoG88i2HKCpDKLJ7/Jor9hrntevWIldfIMFL7bgVshUoXaCSHgdKB5QBPrM/dSU+yDk20n2lzh6wsixzkzKIS0a7o1cW7yW2pYb2AWIDjA/11DZ1mUFt6X/HRtMi9/iVbIiHqJUjqPfDBv1wc/8aQldoybmMC5dI0LBJ+DUpZ9JUIo5XtLKOueeHmyKNazhXBDMxIfKz4H+88FaC/wRcpJEbUOWsZYXOf3Z2/d/l7MMxbLeUc9qIown0ttRwGb6qSYyL2VMXH5iPN4THn/ewP5TUghQV3DtOEDtMBRJDNm7l/vxEOykVE8nBupAa9depPFvFPdHDB+EWtfsNlOuxNxM5nrRilR/8qD2UkvJhJQWJdyNyLLBFnwGiXMOiNtEiFyHOxc2TjitRUYy9zwq9WngyYG+scp2bh9tzG6MGEFsBnFX7b9KIRJDkuxKEthZ7DxNiJUHVHahIlO3uzyoS64Nmdf7cQAm6+TIS8pNmSHxsowHHICc=
