@@ -4,9 +4,11 @@ branches:
   - master
   - test
 services:
-- docker
+  - docker
+script:
+  - bash -x .travis-build.sh
 after_success:
-- bash -x .travis-deploy.sh
+  - bash -x .travis-deploy.sh
 notifications:
   slack:
     secure: VUrGeMmApuHOiUUj1eo/k+jYfC4qerLxUFGsWavDQEUIJn5t15GXw2H8oCX6iHyvhCauOOgLMxoJ1bdRaoS7arqGXNTArfPB5qNPXJAl4uCP3eL7HGuJQxObcWzSELgsSk4yTdF0o3PzmFsemReVrgH+cTN42qY3T/LqV4aC3Bkq/ZnfMTfKloouWA949IzNYLS1PfxqaNE6C+fgpdOWXni5X9wlbmqv22nrc51mxhxh5EDDjDo0ok3LT1HIsgJAW0jfrAAGkQtWKoVJeg9yh+avTUy+zWO4qSuhIo7vYVcZloIhphJkqHvvYVSZRvehjeC06PAhuotwYuiZEhEUfKPScdJdQlPGSSDRWIrs1TjP221OfMAvblYTVySvTLtQWBjgYRGj1i5Pa5alUNXS7KRKFpV/PPfC2TA33KaZQMAahBQgRUWz90UC64LiJMC9wVCoqTd6GFVFQd4Zg+hC55aFKltrmtzK0HKwBPGuWN69sbfNwLcPWD/fhvAF3aRm2w705qKpBOugcI3hJfakzrvqa3wMLpgrInKl5ZbkWvq/cBoX/o81AIf0sHANwlXa2L78U3eQdhPfOxSV12bKQzym1hwgtNf8wcQ3BUXv/trHZM5rHoBDFxeihQW1M01gJb4hHVALyMuMaO98iszdGqIasnF1s0W9ZWVaGTjCgUM=
