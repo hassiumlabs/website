@@ -8,7 +8,7 @@ services:
 before_install:
   - git submodule update --init --recursive
 script:
-  - docker run --rm -v $(pwd):/srv hassiumlabs/hugo
+  - docker run --rm -v $(pwd):/srv/www --workdir /srv/www hassiumlabs/hugo
 after_success:
   - bash -x .travis-deploy.sh
 notifications:
