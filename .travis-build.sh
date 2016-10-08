@@ -8,7 +8,7 @@
 #
 
 # Pull in the latest copy of the theme
-git submodule update --init --recursive
+git submodule update --init --remote --recursive
 
 if [ "$TRAVIS_BRANCH" == "master" ]; then
   docker run --rm -v $(pwd):/srv/www --workdir /srv/www hassiumlabs/hugo
