@@ -8,4 +8,4 @@ menu:
 ---
 
 
-[Lab Material](../../labs/lab-001-electronic-publishing/en/)
+[Lab Material](/labs/lab-001-electronic-publishing/en/)
