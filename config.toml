@@ -1,4 +1,4 @@
-baseurl = "https://hassiumlab.com/"
+baseurl = "https://hassiumlabs.com/"
 languageCode = "en-us"
 title = "Hassium Labs"
 theme = "hugo-material-docs"
