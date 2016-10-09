@@ -15,5 +15,5 @@ if [ "$TRAVIS_BRANCH" == "test" ]; then
     --rm \
     -v $(pwd):/srv/www \
     --workdir /srv/www \
-    hassiumlabs/hugo --baseURL  http://hassiumlabs-website.s3-website-us-west-2.amazonaws.com/test/site/
+    hassiumlabs/hugo --baseURL https://test.hassiumlabs.com
 fi
