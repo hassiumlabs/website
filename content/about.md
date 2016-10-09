@@ -1,6 +1,9 @@
 ---
 date: 2016-10-08T15:06:31-04:00
 title: About
+menu:
+  main:
+    weight: -1
 ---
 
 Contact Info | &nbsp;

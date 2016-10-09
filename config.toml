@@ -10,7 +10,7 @@ googleAnalytics = "UA-85417237-1"
 	# General information
 	author = "Hassium Labs"
 	description = "Open Source Labs"
-	copyright = ""
+	copyright = "Hassium Labs"
 
 	# Repository
 	provider = ""
@@ -20,7 +20,7 @@ googleAnalytics = "UA-85417237-1"
 	logo = "css logo"
 	favicon = "images/favicon.png"
 
-	permalink = "#"
+	permalink = "&nbsp;"
 
 	# Custom assets
 	custom_css = [ "stylesheets/hassiumlabs.css" ]
@@ -30,7 +30,7 @@ googleAnalytics = "UA-85417237-1"
 	highlight_css  = ""
 
 	[params.palette]
-    	primary  = "grey"
+    	primary = "grey"
     	accent  = "yellow"
 
     [params.font]
@@ -48,17 +48,3 @@ googleAnalytics = "UA-85417237-1"
 	smartDashes = true
 	plainIDAnchors = true
 
-[[menu.main]]
-	name   = "Home"
-	url    = "/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Labs"
-	url    = "labs/"
-	weight = 5
-
-[[menu.main]]
-	name   = "About"
-	url    = "about/"
-	weight = 10
