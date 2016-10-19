@@ -9,5 +9,10 @@ menu:
 
 This lab covers the tools and processes used to publish to the HassiumLabs website.
 
+## Languages
 
-[Lab Material](/labs/lab-001-electronic-publishing/en/)
+English: 
+    [HTML](/labs/lab-001-electronic-publishing/en/) |
+    [PDF](labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.pdf) |
+    [MOBI](labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.mobi) |
+    [EPUB](labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.epub)
