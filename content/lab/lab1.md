@@ -13,6 +13,6 @@ This lab covers the tools and processes used to publish to the HassiumLabs websi
 
 English: 
     [HTML](/labs/lab-001-electronic-publishing/en/) |
-    [PDF](labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.pdf) |
-    [MOBI](labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.mobi) |
-    [EPUB](labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.epub)
+    [PDF](/labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.pdf) |
+    [MOBI](/labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.mobi) |
+    [EPUB](/labs/lab-001-electronic-publishing/lab-001-electronic-publishing_en.epub)
