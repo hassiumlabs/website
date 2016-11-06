@@ -48,3 +48,7 @@ googleAnalytics = "UA-85417237-1"
 	smartDashes = true
 	plainIDAnchors = true
 
+[[menu.main]]
+	Name = "Contributors"
+	Weight = 0
+	URL = "https://github.com/orgs/hassiumlabs/people"
