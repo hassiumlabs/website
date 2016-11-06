@@ -1,10 +1,7 @@
 ---
 date: 2016-10-08T19:41:30-04:00
 title: 'Electronic Publishing'
-menu:
-  main:
-    parent: 'lab'
-    weight: 10
+description: This lab covers the tools and processes used to publish to the HassiumLabs website
 ---
 
 This lab covers the tools and processes used to publish to the HassiumLabs website.

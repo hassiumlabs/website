@@ -6,6 +6,9 @@ menu:
     weight: -1
 ---
 
+Hassium Labs started in 2016 as an outlet for publishing some of the projects 
+I found interesting.
+
 Contact Info | &nbsp;
 ----         | ----
 Email	     | [info@hassiumlabs.com](mailto:info@hassiumlabs.com)
